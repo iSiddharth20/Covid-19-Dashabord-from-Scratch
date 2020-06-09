@@ -6,4 +6,6 @@ Website is created from Scratch using Basic Concepts of Python.
 
 # How to Use the Code
 
-* Run 'Main.py' from the 'PythonFiles' folder
+* Python-3 is Must.
+* Use the 'requirements.txt' to install all necessary Packages.
+* Run 'Main.py' from the 'PythonFiles' folder.
