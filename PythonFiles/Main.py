@@ -36,9 +36,9 @@ str1 = """<!DOCTYPE html>
                                 class="collapse navbar-collapse" id="navcol-1">
                                 <ul class="nav navbar-nav ml-auto">
                                     <li class="nav-item" role="presentation"></li>
-                                    <li class="nav-item" role="presentation"><a class="nav-link" data-bs-hover-animate="pulse" href="https://www.kaggle.com/isiddharth/covid19-india-dataset" style="color: #f2f5f8;font-size: 25px;height: 40px;font-family: Elite Danger;">Open Source Dataset</a></li>
+                                    <li class="nav-item" role="presentation"><a class="nav-link" data-bs-hover-animate="pulse" href="https://github.com/iSiddharth20/Covid-19-Dashabord-from-Scratch" style="color: #f2f5f8;font-size: 25px;height: 40px;font-family: Elite Danger;">Open Source Code</a></li>
                                     <li
-                                        class="nav-item" role="presentation"><a class="nav-link" data-bs-hover-animate="pulse" href="about.html" style="color: #f2f5f8;font-size: 25px;height: 40px;font-family: Elite Danger;">About Developers</a></li>
+                                        class="nav-item" role="presentation"><a class="nav-link" data-bs-hover-animate="pulse" href="https://covid19dashboard.social/" style="color: #f2f5f8;font-size: 25px;height: 40px;font-family: Elite Danger;">Live Version</a></li>
                                 </ul>
                             </div>
         </div>
