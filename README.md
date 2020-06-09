@@ -10,6 +10,7 @@ Website is created from Scratch using Basic Concepts of Python.
 * Python-3 is Must.
 * Use the 'requirements.txt' to install all necessary Packages.
 * Run 'Main.py' from the 'PythonFiles' folder.
+* After the above steps, you should be able to see 'index.html' in the root folder.
 
 # How does this Work?
 
