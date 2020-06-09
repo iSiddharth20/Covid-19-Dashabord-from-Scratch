@@ -2,7 +2,8 @@
 Covid-19 Dashboard for India without using any API. 
 Website is created from Scratch using Basic Concepts of Python.
 
-* Live Version : [Click Here](https://covid19dashboard.social/)
+* Live Version of this Project : [Click Here](https://covid19dashboard.social/)
+* Data collected over time from this Project : [Click Here](https://www.kaggle.com/isiddharth/covid19-india-dataset)
 
 # How to Use the Code
 
